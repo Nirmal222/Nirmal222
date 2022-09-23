@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nirmalkumargurajada@gmail.com**
 
-- 📄 Here is my Resume: <a href='https://nirmal222.github.io/static/media/resume.69b60be33dd3dfaef710.pdf]'>Resume<a/> 
+- 📄 Here is my Resume: <a href='https://nirmal222.github.io/static/media/resume.69b60be33dd3dfaef710.pdf]'>Nirmal-Kumar-Resume<a/> 
   
 
 <h3 align="left">Connect with me:</h3>
