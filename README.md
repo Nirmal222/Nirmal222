@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 👨‍💻 All of my projects are available at [nirmal222.github.io](nirmal222.github.io)
+- 👨‍💻 All of my projects are available at [[nirmal222.github.io](nirmal222.github.io)](https://nirmal222.github.io/)
 
 - 💬 Ask me about **FullStack.**
 
